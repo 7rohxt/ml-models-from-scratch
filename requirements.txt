@@ -1,0 +1,4 @@
+numPy
+pandas
+matplotlib
+scikit-learn # (for train/test split and metrics)
